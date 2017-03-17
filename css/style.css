@@ -1,0 +1,29 @@
+
+
+.container{
+margin: 20px;
+font-family: "Lato",Arial;
+color:#BCBBBB;
+
+}
+
+
+.container h1{
+color:black;
+}
+
+
+
+.col-md-4{
+color:#333333;
+}
+
+.line{
+border: solid 1px #BCBBBB;
+margin-top: -5px;
+}
+
+.fondo{
+background: #dde2d6;
+
+}
